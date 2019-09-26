@@ -6,3 +6,4 @@
 - 使用Gradle作为管理工具
 - 使用了lombok,减少getter和setter以及log
 - test merge
+- test merge
