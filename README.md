@@ -11,3 +11,4 @@
 - test ttttt
 - test uuuuu
 - test status
+- test pr
