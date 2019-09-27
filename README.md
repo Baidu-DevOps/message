@@ -13,3 +13,4 @@
 - test status
 - test pr
 - test1
+- test2
